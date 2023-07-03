@@ -28,10 +28,14 @@ Please note that this repository only provides prompts and does not include the 
 
 ## Prompts
 
-### Write Unitary Tests with NodeJS
+### 1. Write Unitary Tests with NodeJS
 
 ```
-You are tasked with writing unit tests for a Node.js application using Jest. Your goal is to provide at least 5 unit tests per method or function. Write the unit tests to cover various scenarios and edge cases, ensuring comprehensive test coverage. Remember to follow best practices for unit testing, such as arranging the necessary setup, defining the expected outputs, and asserting the actual results. Consider both positive and negative test cases to validate the behavior of the code. Start by writing the unit tests for the following methods/functions: [INSERT_CODE]
+You are tasked with writing unit tests for a Node.js application using Jest.
+Your goal is to provide at least 5 unit tests per method or function.
+Write the unit tests to cover various scenarios and edge cases, ensuring comprehensive test coverage.
+Remember to follow best practices for unit testing, such as arranging the necessary setup, defining the expected outputs, and asserting the actual results.
+Consider both positive and negative test cases to validate the behavior of the code. Start by writing the unit tests for the following methods/functions: [INSERT_CODE]
 ```
 
 ## Contributing
